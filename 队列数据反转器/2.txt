@@ -1,0 +1,44 @@
+前情回顾
+
+1. 什么是数据结构
+
+2. 逻辑结构 :  线性   非线性
+
+   存储结构 :  顺序存储  链式存储
+
+3. 单链表
+
+
+
+练习1 :  利用顺序栈,完成逆波兰表达式的执行演示过程
+
+
+练习2 :  创建一个顺序队列, 队列中入队一组值
+        将队列中的值反转过来(值的个数不确定).
+        比如:[1,2,3,4,5]-->[5,4,3,2,1]
+
+思考 : 如何用两个栈实现一个队列
+
+
+公众号 :  算法爱好者   Python程序员  Python开发者
+
+app : 掘金
+
+
+作业: 1. 重点代码理解
+
+2. 编写一个接口程序,要求判断一段文字中括号匹配是否正确,
+如果正确则打印"匹配正确",如果不正确则打印出哪里出错(只需要找出第一个错误即可)
+
+出错情况 : 少前括号,少后括号,括号不匹配
+
+When an Open Data (standard) is created and promoted, it’s [important] to think why - what change is th=is {trying (to) drive}? What will people do with this data that they couldn’t do before?
+
+
+
+
+
+
+
+
+
